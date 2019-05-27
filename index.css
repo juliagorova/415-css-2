@@ -1,0 +1,8 @@
+@@import url('https://fonts.googleapis.com/css?family=Ranga|Source+Code+Pro&display=swap');
+
+header .top-row .logo {
+    font-family: 'Ranga', cursive;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+}
